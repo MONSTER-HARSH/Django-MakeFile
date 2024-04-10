@@ -1,4 +1,4 @@
-# DjangoTaskMaster
+# Django MakeFile
 
 This repository contains a Makefile for automating common development tasks for Django project. The Makefile allows you to simplify tasks such as setting up a virtual environment, installing requirements, running migrations, running tests, and more.
 
