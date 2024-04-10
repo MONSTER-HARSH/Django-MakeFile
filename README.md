@@ -31,8 +31,8 @@ This repository contains a Makefile for automating common development tasks for 
 
 1. Clone the repository and navigate to the project root:
 ```bash
-  git clone https://github.com/MONSTER-HARSH/DjangoTaskMaster.git
-  cd DjangoTaskMaster
+  git clone https://github.com/MONSTER-HARSH/Django-MakeFile.git
+  cd Django-MakeFile
 ```
 2. Now, you can use the following commands to perform different tasks:
 
